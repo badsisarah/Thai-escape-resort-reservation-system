@@ -70,3 +70,8 @@ Application web de réservation de resort en Thaïlande incluant la gestion des 
 Le système de paiement est une **simulation**.  
 Aucune transaction réelle n’est effectuée.  
 Les paiements sont enregistrés dans des fichiers JSON.
+
+## 🎓 Contexte
+Projet réalisé en Licence 3 MIAGE (2025–2026).
+
+---
